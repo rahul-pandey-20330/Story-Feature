@@ -9,5 +9,3 @@
 <li>
   JavaScript
 </li>
-<h3>click Here To View</h3>
-<h4>url :<a herf ="https://rahul-pandey-20330.github.io/Story-Feature/"</a></h4>
